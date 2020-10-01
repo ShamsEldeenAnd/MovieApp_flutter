@@ -12,7 +12,7 @@ design and develop movie app using flutter framework  <br />
 
 ## Demo
 <p float="left">
-<img src="https://github.com/ShamsEldeenAnd/images/blob/master/QuizApp/ezgif.com-video-to-gif(1).gif" width="250" height="420" />
+<img src="https://github.com/ShamsEldeenAnd/MovieApp_flutter/blob/master/movieDemo.gif" width="250" height="420" />
 </p>
 
 
