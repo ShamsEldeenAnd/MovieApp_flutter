@@ -1,16 +1,18 @@
-# movie_app_flutter
+# MoviesApp(Flutter)
+design and develop movie app using flutter framework  <br />
+-convert movie App psd to flutter app using :
+1-`listiew`
+2-`container`
+3-`listViewBuilder`
+4-`Hero` Widget
+5-other flutter widgets
 
-A new Flutter application.
 
-## Getting Started
+**Note** : you can visit (https://firebase.google.com/)  for more information 
 
-This project is a starting point for a Flutter application.
+## Demo
+<p float="left">
+<img src="https://github.com/ShamsEldeenAnd/images/blob/master/QuizApp/ezgif.com-video-to-gif(1).gif" width="250" height="420" />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
